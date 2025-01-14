@@ -1,3 +1,2 @@
-# React + Vite
+# Designer Project for graphic designer, illustrator, and artist
 
-Template for starting a portfolio project with React & Vite. 
